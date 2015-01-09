@@ -12,7 +12,7 @@ Alias:
   Enabled: false
 
 ArrayJoin:
-  Enabled: false
+  Enabled: true
 
 AsciiComments:
   Enabled: false
@@ -188,7 +188,7 @@ SpecialGlobalVars:
   Enabled: false
 
 StringLiterals:
-  EnforcedStyle: double_quotes
+  EnforcedStyle: single_quotes
 
 VariableInterpolation:
   Enabled: false
