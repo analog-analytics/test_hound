@@ -11,9 +11,6 @@ ActionFilter:
 Alias:
   Enabled: false
 
-ArrayJoin:
-  Enabled: false
-
 AsciiComments:
   Enabled: false
 
