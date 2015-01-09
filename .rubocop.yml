@@ -43,10 +43,11 @@ ClassVars:
 
 CollectionMethods:
   PreferredMethods:
-    find: detect
-    reduce: inject
-    collect: map
-    find_all: select
+    collect: 'map'
+    collect!: 'map!'
+    inject: 'reduce'
+    detect: 'find'
+    find_all: 'select'
 
 ColonMethodCall:
   Enabled: false
